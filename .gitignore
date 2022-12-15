@@ -2,3 +2,4 @@ env/*
 sessions/*
 __pycache__/*
 todo.TODO
+config.py
